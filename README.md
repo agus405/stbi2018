@@ -1,2 +1,3 @@
 # stbi2018
-tugas uts
+tugas uas 
+analisa sentimen tweetter
