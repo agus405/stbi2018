@@ -1,9 +1,9 @@
-#install.packages("tm")
-#install.packages("RTextTools")
-#install.packages("e1071")
-#install.packages("dplyr")
-#install.packages("caret")
-#install.packages("doMC", repos="http://R-Forge.R-project.org")
+install.packages("tm")
+install.packages("RTextTools")
+install.packages("e1071")
+install.packages("dplyr")
+install.packages("caret")
+install.packages("doMC", repos="http://R-Forge.R-project.org")
 
 
 library(tm)
